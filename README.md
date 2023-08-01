@@ -6,7 +6,8 @@ Diwali, also known as the Festival of Lights is one of the biggest festivals in 
 It is also one of the country’s largest shopping events, with consumers spending big on decorations, clothing, jewelry, gifts, sweets, lights, and fireworks.
 
 The Objective of this project is to analyze the festive sales spending to gain insights about the target market and identify patterns to improve customer experience.
-## Data exploration of the dataset using SQL
+
+## Data Cleaning and Data exploration using POWER BI
 ### Problem Statement:
 
 The ecommerce store in India that we are working with has been facing difficulties in analyzing its sales trend and making data-based decisions. This limits the business's ability to seize growth opportunities and achieve its revenue targets. To address these challenges, the business needs a solution that can provide a detailed and insightful analysis of the sales trend, especially during the peak season of Diwali. 
